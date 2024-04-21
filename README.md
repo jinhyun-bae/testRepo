@@ -1,5 +1,2 @@
 # testRepolol
-????
-ㅁㄴㅇㄹㅁㄴㅇㄹ
-somthing!
-호에에?!
+다 지운 수정사항
